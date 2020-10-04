@@ -1,0 +1,83 @@
+DATE TIME,FILE NAME,FUNCTION NAME,LINE NUMBER,LOG LEVEL NAME,NAME,LOG MESSAGE
+
+04-10-2020 22-19-01,test_AdminJob.py,test_Add_Job_Title,45,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_1Add_Job_Title called
+04-10-2020 22-19-01,test_AdminJob.py,test_Add_Job_Title,57,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,File Name : test_AdminJob.py 
+04-10-2020 22-19-01,test_AdminJob.py,test_Add_Job_Title,58,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Error : 
+04-10-2020 22-19-01,test_AdminJob.py,test_Add_Job_Title,59,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Type --> NoSuchWindowException
+04-10-2020 22-19-01,test_AdminJob.py,test_Add_Job_Title,60,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Details --> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+
+04-10-2020 22-19-02,test_AdminJob.py,test_Edit_Job_Title,65,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_2Edit_Job_Title called
+04-10-2020 22-19-02,test_AdminJob.py,test_Edit_Job_Title,75,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,File Name : test_AdminJob.py 
+04-10-2020 22-19-02,test_AdminJob.py,test_Edit_Job_Title,76,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Error : 
+04-10-2020 22-19-02,test_AdminJob.py,test_Edit_Job_Title,77,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Type --> NoSuchWindowException
+04-10-2020 22-19-02,test_AdminJob.py,test_Edit_Job_Title,78,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Details --> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+
+04-10-2020 22-19-02,test_AdminJob.py,test_Add_PayGrade,83,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_3Add_PayGrade called
+04-10-2020 22-19-02,test_AdminJob.py,test_Add_PayGrade,89,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,File Name : test_AdminJob.py 
+04-10-2020 22-19-02,test_AdminJob.py,test_Add_PayGrade,90,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Error : 
+04-10-2020 22-19-02,test_AdminJob.py,test_Add_PayGrade,91,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Type --> NoSuchWindowException
+04-10-2020 22-19-02,test_AdminJob.py,test_Add_PayGrade,92,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Details --> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+
+04-10-2020 22-19-02,test_AdminJob.py,test_Edit_PayGrade,97,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_4Edit_PayGrade called
+04-10-2020 22-19-02,test_AdminJob.py,test_Edit_PayGrade,103,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,File Name : test_AdminJob.py 
+04-10-2020 22-19-02,test_AdminJob.py,test_Edit_PayGrade,104,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Error : 
+04-10-2020 22-19-02,test_AdminJob.py,test_Edit_PayGrade,105,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Type --> NoSuchWindowException
+04-10-2020 22-19-02,test_AdminJob.py,test_Edit_PayGrade,106,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Details --> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+
+04-10-2020 22-19-02,test_AdminJob.py,test_Add_Employment_status,111,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_5Add_Employment_status called
+04-10-2020 22-19-02,test_AdminJob.py,test_Add_Employment_status,117,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,File Name : test_AdminJob.py 
+04-10-2020 22-19-02,test_AdminJob.py,test_Add_Employment_status,118,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Error : 
+04-10-2020 22-19-02,test_AdminJob.py,test_Add_Employment_status,119,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Type --> NoSuchWindowException
+04-10-2020 22-19-02,test_AdminJob.py,test_Add_Employment_status,120,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Details --> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+
+04-10-2020 22-19-03,test_AdminJob.py,test_Edit_Employment_status,125,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,6Edit_Employment_status called
+04-10-2020 22-19-03,test_AdminJob.py,test_Edit_Employment_status,131,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,File Name : test_AdminJob.py 
+04-10-2020 22-19-03,test_AdminJob.py,test_Edit_Employment_status,132,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Error : 
+04-10-2020 22-19-03,test_AdminJob.py,test_Edit_Employment_status,133,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Type --> NoSuchWindowException
+04-10-2020 22-19-03,test_AdminJob.py,test_Edit_Employment_status,134,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Details --> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+
+04-10-2020 22-19-03,test_AdminJob.py,test_Add_Job_Categories,139,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,7Add_Job_Categories called
+04-10-2020 22-19-03,test_AdminJob.py,test_Add_Job_Categories,145,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,File Name : test_AdminJob.py 
+04-10-2020 22-19-03,test_AdminJob.py,test_Add_Job_Categories,146,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Error : 
+04-10-2020 22-19-03,test_AdminJob.py,test_Add_Job_Categories,147,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Type --> NoSuchWindowException
+04-10-2020 22-19-03,test_AdminJob.py,test_Add_Job_Categories,148,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Details --> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+
+04-10-2020 22-19-03,test_AdminJob.py,test_Edit_Job_Categories,153,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,8Edit_Job_Categories called
+04-10-2020 22-19-03,test_AdminJob.py,test_Edit_Job_Categories,159,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,File Name : test_AdminJob.py 
+04-10-2020 22-19-03,test_AdminJob.py,test_Edit_Job_Categories,160,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Error : 
+04-10-2020 22-19-03,test_AdminJob.py,test_Edit_Job_Categories,161,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Type --> NoSuchWindowException
+04-10-2020 22-19-03,test_AdminJob.py,test_Edit_Job_Categories,162,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Details --> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+
+04-10-2020 22-19-03,test_AdminJob.py,test_Add_Work_Shifts,167,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_9Add_Work_Shifts called
+04-10-2020 22-19-03,test_AdminJob.py,test_Add_Work_Shifts,174,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,File Name : test_AdminJob.py 
+04-10-2020 22-19-03,test_AdminJob.py,test_Add_Work_Shifts,175,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Error : 
+04-10-2020 22-19-03,test_AdminJob.py,test_Add_Work_Shifts,176,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Type --> NoSuchWindowException
+04-10-2020 22-19-03,test_AdminJob.py,test_Add_Work_Shifts,177,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Details --> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+
+04-10-2020 22-19-03,test_AdminJob.py,test_Edit_Work_Shifts,182,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_10Edit_Work_Shifts called
+04-10-2020 22-19-03,test_AdminJob.py,test_Edit_Work_Shifts,188,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,File Name : test_AdminJob.py 
+04-10-2020 22-19-03,test_AdminJob.py,test_Edit_Work_Shifts,189,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Error : 
+04-10-2020 22-19-03,test_AdminJob.py,test_Edit_Work_Shifts,190,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Type --> NoSuchWindowException
+04-10-2020 22-19-03,test_AdminJob.py,test_Edit_Work_Shifts,191,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Details --> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+
+04-10-2020 22-19-19,test_Login.py,test_setup,18,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,setup called

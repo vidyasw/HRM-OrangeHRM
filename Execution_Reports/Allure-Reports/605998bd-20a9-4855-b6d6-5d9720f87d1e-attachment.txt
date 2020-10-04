@@ -1,0 +1,1 @@
+[32mINFO    [0m OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator:test_AdminUserManagement.py:41 test_click_users called

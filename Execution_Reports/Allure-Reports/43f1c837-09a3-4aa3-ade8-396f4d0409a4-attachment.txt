@@ -1,0 +1,7 @@
+Navigation to user Management is successful
+4
+5
+['mitashak', 'mitasha I Kamble', 'rasnak', 'Rasna A Kamble']
+User to Delete : mitasha I Kamble
+username mitasha I Kamble
+Test Completed call from conftest

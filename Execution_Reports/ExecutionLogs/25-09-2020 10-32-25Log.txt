@@ -1,0 +1,39 @@
+DATE TIME,FILE NAME,FUNCTION NAME,LINE NUMBER,LOG LEVEL NAME,NAME,LOG MESSAGE
+
+25-09-2020 10-32-52,test_AdminJob.py,test_Add_Job_Title,45,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_1Add_Job_Title called
+25-09-2020 10-32-52,test_AdminJob.py,test_Add_Job_Title,57,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,File Name : test_AdminJob.py 
+25-09-2020 10-32-52,test_AdminJob.py,test_Add_Job_Title,58,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Error : 
+25-09-2020 10-32-52,test_AdminJob.py,test_Add_Job_Title,59,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Type --> MoveTargetOutOfBoundsException
+25-09-2020 10-32-52,test_AdminJob.py,test_Add_Job_Title,60,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Details --> Message: move target out of bounds
+  (Session info: chrome=85.0.4183.121)
+
+25-09-2020 10-32-53,test_AdminJob.py,test_Edit_Job_Title,65,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_2Edit_Job_Title called
+25-09-2020 10-32-53,test_AdminJob.py,test_Edit_Job_Title,75,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,File Name : test_AdminJob.py 
+25-09-2020 10-32-53,test_AdminJob.py,test_Edit_Job_Title,76,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Error : 
+25-09-2020 10-32-53,test_AdminJob.py,test_Edit_Job_Title,77,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Type --> MoveTargetOutOfBoundsException
+25-09-2020 10-32-53,test_AdminJob.py,test_Edit_Job_Title,78,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Details --> Message: move target out of bounds
+  (Session info: chrome=85.0.4183.121)
+
+25-09-2020 10-32-54,test_AdminJob.py,test_Add_PayGrade,83,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_3Add_PayGrade called
+25-09-2020 10-33-02,Job_utility.py,add_payGrades,87,DEBUG,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Failed to close AddEditCurrency form
+25-09-2020 10-33-02,test_AdminJob.py,test_Edit_PayGrade,97,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_4Edit_PayGrade called
+25-09-2020 10-33-08,test_AdminJob.py,test_Add_Employment_status,111,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_5Add_Employment_status called
+25-09-2020 10-33-12,test_AdminJob.py,test_Edit_Employment_status,125,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,6Edit_Employment_status called
+25-09-2020 10-33-19,test_AdminJob.py,test_Add_Job_Categories,139,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,7Add_Job_Categories called
+25-09-2020 10-33-23,test_AdminJob.py,test_Edit_Job_Categories,153,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,8Edit_Job_Categories called
+25-09-2020 10-33-30,test_AdminJob.py,test_Add_Work_Shifts,167,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_9Add_Work_Shifts called
+25-09-2020 10-33-36,test_AdminJob.py,test_Edit_Work_Shifts,182,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_10Edit_Work_Shifts called
+25-09-2020 10-33-59,test_AdminUserManagement.py,test_click_users,41,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_click_users called
+25-09-2020 10-34-16,test_Login.py,test_setup,18,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,setup called
+25-09-2020 10-34-22,test_Login.py,test_1validation_login,32,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,1validation_login called
+25-09-2020 10-34-39,test_Login.py,test_2forgotPassword_click,77,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,2forgotPassword_click called
+25-09-2020 10-34-41,test_Login.py,test_3login,97,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,3login called
+25-09-2020 10-34-47,test_Login.py,test_4logout,113,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,4logout called
+25-09-2020 10-34-57,test_Login.py,test_4logout,119,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,File Name : test_Login.py 
+25-09-2020 10-34-57,test_Login.py,test_4logout,120,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Error : 
+25-09-2020 10-34-57,test_Login.py,test_4logout,121,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Type --> NoSuchElementException
+25-09-2020 10-34-57,test_Login.py,test_4logout,122,ERROR,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Details --> Message: no such element: Unable to locate element: {"method":"link text","selector":"Welcome Carlos"}
+  (Session info: chrome=85.0.4183.121)
+
+25-09-2020 10-34-57,test_Login.py,test_setup,25,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,teardown called
+25-09-2020 10-34-59,test_Login.py,test_setup,28,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Test Completed

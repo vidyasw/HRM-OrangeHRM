@@ -1,0 +1,24 @@
+DATE TIME,FILE NAME,FUNCTION NAME,LINE NUMBER,LOG LEVEL NAME,NAME,LOG MESSAGE
+
+04-10-2020 22-20-29,test_AdminJob.py,test_Add_Job_Title,45,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_1Add_Job_Title called
+04-10-2020 22-20-35,Job_JobTitle_Page.py,get_job_titles,80,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,List of Titles from get_job_titles['CEO', 'Finance Manager', 'HR Executive', 'HR Manager', 'IT Executive', 'IT Manager', 'Manger', 'Sales Executive']
+04-10-2020 22-20-40,Job_JobTitle_Page.py,get_job_titles,80,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,List of Titles from get_job_titles['CEO', 'CTO', 'Finance Manager', 'HR Executive', 'HR Manager', 'IT Executive', 'IT Manager', 'Manger', 'Sales Executive']
+04-10-2020 22-20-40,test_AdminJob.py,test_Edit_Job_Title,65,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_2Edit_Job_Title called
+04-10-2020 22-20-43,Job_JobTitle_Page.py,get_job_titles,80,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,List of Titles from get_job_titles['CEO', 'CTO', 'Finance Manager', 'HR Executive', 'HR Manager', 'IT Executive', 'IT Manager', 'Manger', 'Sales Executive']
+04-10-2020 22-20-48,test_AdminJob.py,test_Add_PayGrade,83,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_3Add_PayGrade called
+04-10-2020 22-20-56,Job_utility.py,add_payGrades,87,DEBUG,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Failed to close AddEditCurrency form
+04-10-2020 22-20-56,test_AdminJob.py,test_Edit_PayGrade,97,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_4Edit_PayGrade called
+04-10-2020 22-21-01,test_AdminJob.py,test_Add_Employment_status,111,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_5Add_Employment_status called
+04-10-2020 22-21-06,test_AdminJob.py,test_Edit_Employment_status,125,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,6Edit_Employment_status called
+04-10-2020 22-21-10,test_AdminJob.py,test_Add_Job_Categories,139,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,7Add_Job_Categories called
+04-10-2020 22-21-14,test_AdminJob.py,test_Edit_Job_Categories,153,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,8Edit_Job_Categories called
+04-10-2020 22-21-17,test_AdminJob.py,test_Add_Work_Shifts,167,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_9Add_Work_Shifts called
+04-10-2020 22-21-23,test_AdminJob.py,test_Edit_Work_Shifts,182,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_10Edit_Work_Shifts called
+04-10-2020 22-21-47,test_AdminUserManagement.py,test_click_users,41,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,test_click_users called
+04-10-2020 22-22-00,test_Login.py,test_setup,18,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,setup called
+04-10-2020 22-22-06,test_Login.py,test_1validation_login,32,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,1validation_login called
+04-10-2020 22-22-17,test_Login.py,test_2forgotPassword_click,77,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,2forgotPassword_click called
+04-10-2020 22-22-20,test_Login.py,test_3login,97,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,3login called
+04-10-2020 22-22-26,test_Login.py,test_4logout,113,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,4logout called
+04-10-2020 22-22-28,test_Login.py,test_setup,25,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,teardown called
+04-10-2020 22-22-30,test_Login.py,test_setup,28,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Test Completed

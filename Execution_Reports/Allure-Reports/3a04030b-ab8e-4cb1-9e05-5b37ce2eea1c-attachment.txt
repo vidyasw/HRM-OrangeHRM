@@ -1,0 +1,1 @@
+[32mINFO    [0m OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator:test_AdminJob.py:182 test_10Edit_Work_Shifts called

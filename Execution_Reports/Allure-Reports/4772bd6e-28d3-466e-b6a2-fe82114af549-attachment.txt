@@ -1,0 +1,3 @@
+[32mINFO    [0m OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator:test_Login.py:113 4logout called
+[32mINFO    [0m OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator:test_Login.py:25 teardown called
+[32mINFO    [0m OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator:test_Login.py:28 Test Completed

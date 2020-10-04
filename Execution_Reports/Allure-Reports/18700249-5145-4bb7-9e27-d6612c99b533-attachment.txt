@@ -1,0 +1,3 @@
+[32mINFO    [0m OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator:test_AdminJob.py:45 test_1Add_Job_Title called
+[32mINFO    [0m OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator:Job_JobTitle_Page.py:80 List of Titles from get_job_titles['CEO', 'Finance Manager', 'HR Executive', 'HR Manager', 'IT Executive', 'IT Manager', 'Manger', 'Sales Executive']
+[32mINFO    [0m OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator:Job_JobTitle_Page.py:80 List of Titles from get_job_titles['CEO', 'CTO', 'Finance Manager', 'HR Executive', 'HR Manager', 'IT Executive', 'IT Manager', 'Manger', 'Sales Executive']

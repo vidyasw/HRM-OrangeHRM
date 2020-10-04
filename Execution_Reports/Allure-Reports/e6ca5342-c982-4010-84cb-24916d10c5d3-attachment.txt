@@ -1,0 +1,1 @@
+[32mINFO    [0m OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator:test_AdminJob.py:125 6Edit_Employment_status called

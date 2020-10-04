@@ -1,0 +1,4 @@
+Navigation to Pay Grade is successful
+Edit Pay Grade is opened successfully
+Edit Pay Grades form closed successfully
+CG-40 has edited successfully

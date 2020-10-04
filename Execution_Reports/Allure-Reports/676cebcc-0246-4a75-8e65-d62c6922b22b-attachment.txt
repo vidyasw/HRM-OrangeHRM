@@ -1,0 +1,1 @@
+[32mINFO    [0m OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator:test_AdminJob.py:139 7Add_Job_Categories called

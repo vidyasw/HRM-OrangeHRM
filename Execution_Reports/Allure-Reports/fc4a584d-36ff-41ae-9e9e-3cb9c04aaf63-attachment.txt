@@ -1,0 +1,7 @@
+Navigation to user Management is successful
+15
+5
+['annah', 'Anna Hamilton', 'Fiona Grace', 'Hannah Flores', 'Jasmine Morgan', 'kevin', 'Kevin Mathews', 'Lucky102', 'John Smith', 'Robert Craig', 'Russel Hamilton', 'Sana Sharma', 'Steven Edwards', 'Swapnil Dhananjay Kamble', 'Thomas Fleming', 'UserAbcd', 'Kevin Mathews']
+User to Delete : Anna Hamilton
+username Anna Hamilton
+Test Completed call from conftest

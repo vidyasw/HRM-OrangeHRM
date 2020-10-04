@@ -1,0 +1,5 @@
+Navigation to Job Titles is successful
+Add Title navigation is successful
+E:\Vidyashri\PythonSeleniumProjects\HRM-OrangeHRM\PageObjects\OrangeHRM_AdminPages\Job\All_JobSpecification.txt
+E:\Vidyashri\PythonSeleniumProjects\HRM-OrangeHRM\PageObjects\OrangeHRM_AdminPages\Job\Job_Specification.txt
+CTO added Successfully

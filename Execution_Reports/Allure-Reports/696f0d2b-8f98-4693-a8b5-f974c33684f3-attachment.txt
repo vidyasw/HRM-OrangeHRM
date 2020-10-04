@@ -1,0 +1,3 @@
+Username is empty
+Password is empty
+Invalid credentials

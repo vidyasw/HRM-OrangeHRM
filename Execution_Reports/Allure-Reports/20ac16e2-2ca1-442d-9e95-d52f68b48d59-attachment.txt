@@ -1,0 +1,9 @@
+Navigation to Pay Grade is successful
+Add Pay Grade form navigation is successful
+CG40 added successfully and Assigned currency table has displayed
+Add Currency form opened successfully
+['Row No- 1: Indian Rupee: 300,000.00: 400,000.00']
+ Indian Rupee has added successfully and available at Row No- 1
+ 300000.00 has added successfully and available at Row No- 1
+ 400000.00 has added successfully and available at Row No- 1
+CG40 added successfully with currency,salary limit

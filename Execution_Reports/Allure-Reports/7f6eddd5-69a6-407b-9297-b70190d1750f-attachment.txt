@@ -1,0 +1,2 @@
+[32mINFO    [0m OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator:test_AdminJob.py:83 test_3Add_PayGrade called
+[35mDEBUG   [0m OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator:Job_utility.py:87 Failed to close AddEditCurrency form

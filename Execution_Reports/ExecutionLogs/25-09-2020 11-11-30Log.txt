@@ -1,0 +1,9 @@
+DATE TIME,FILE NAME,FUNCTION NAME,LINE NUMBER,LOG LEVEL NAME,NAME,LOG MESSAGE
+
+25-09-2020 11-11-45,test_Login.py,test_setup,18,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,setup called
+25-09-2020 11-11-50,test_Login.py,test_1validation_login,32,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,1validation_login called
+25-09-2020 11-12-24,test_Login.py,test_2forgotPassword_click,77,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,2forgotPassword_click called
+25-09-2020 11-12-26,test_Login.py,test_3login,97,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,3login called
+25-09-2020 11-12-30,test_Login.py,test_4logout,113,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,4logout called
+25-09-2020 11-12-33,test_Login.py,test_setup,25,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,teardown called
+25-09-2020 11-12-40,test_Login.py,test_setup,28,INFO,OrangeHRM_Common.OrangeHRM_ReportUtilities.LogGenerator,Test Completed

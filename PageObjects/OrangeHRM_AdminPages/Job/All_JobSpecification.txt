@@ -1,0 +1,72 @@
+CTO:
+-Represent the technological agenda in staff meetings and when making hiring decisions
+-Maintain current knowledge of technology landscape and developments
+-Consolidate our technology platforms and create plans for each
+-Track, analyze and monitor technology performance metrics
+-Identify new areas of digital marketing opportunities and create plans to implement them for us and our clients
+-Take the initiative in thought leadership, innovation and creativity
+-Spearhead IT projects to increase our market reach and improve our USP
+-Oversee all system design and changes in system architecture
+
+Software Engineer:
+-Developing requirements
+
+Sr.Software Engineer:
+-Execute full software development life cycle (SDLC)
+-Develop flowcharts, layouts and documentation to identify requirements and solutions
+-Write well-designed, testable code
+-Produce specifications and determine operational feasibility
+-Integrate software components into a fully functional software system
+-Develop software verification plans and quality assurance procedures
+-Document and maintain software functionality
+-Troubleshoot, debug and upgrade existing systems
+-Deploy programs and evaluate user feedback
+-Comply with project plans and industry standards
+-Ensure software is updated with latest features
+
+Test Engineer:
+-Executing testcase and updating results
+
+Sr.Test Engineer:
+-Analyze, design and develop tests and test-automation suites.
+-Design and develop a processing platform using various configuration management technologies.
+-Test software development methodology in an agile environment.
+-Provide ongoing maintenance, support and enhancements in existing systems and platforms.
+-Collaborate cross-functionally with data scientists, business users, project managers and other engineers to achieve elegant solutions.
+-Provide recommendations for continuous improvement.
+-Work alongside other engineers on the team to elevate technology and consistently apply best practices.
+
+Technical Specialist:
+-Acts as a point of contact for inter and intra departmental interaction
+-Represents the software testing team as well as enables customer relationship
+-Deciding the test budget and schedule
+-Identifying the testing activities for other team members like testers or test engineers
+-Planning the entire testing process
+-Checking the availability of the resources to execute testing activities
+-Identifying if the process of testing is going in sync with the software development
+-Preparing the status report of testing activities
+-Sharing updates on testing with the project manager
+-Planning pre and post-test meetings
+
+Sr.Technical Specialist:
+-All responsibilities of test planning.
+-To check if the team has all the necessary resources to execute the testing activities.
+-To check if testing is going hand in hand with the software development in all phases.
+-Prepare the status report of testing activities.
+-Required Interactions with customers.
+-Updating project manager regularly about the progress of testing activities.
+-Test engineers/QA testers/QC testers are responsible for:
+-To read all the documents and understand what needs to be tested.
+-Based on the information procured in the above step decide how it is to be tested.
+-Inform the test lead about what all resources will be required for software testing.
+-Develop test cases and prioritize testing activities.
+-Execute all the test case and report defects, define severity and priority for each defect.
+-Carry out regression testing every time when changes are made to the code to fix defects.
+
+Specialist:
+-Support all activities as subject matter experts
+
+Sr. Specialist:
+-Discussing buisness requirements
+-Creating product backlogs
+
